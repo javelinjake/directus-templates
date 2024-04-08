@@ -1,0 +1,20 @@
+[
+  {
+    "directus_files_id": "9a5f5f14-89b6-4519-987d-edc1c8e2c89c",
+    "id": 1,
+    "project": "0c70c514-24d7-4aa2-9d24-72bbaf0aa2a1",
+    "sort": 1
+  },
+  {
+    "directus_files_id": "ca441ed5-8928-49bc-bc08-94916df469d9",
+    "id": 2,
+    "project": "0c70c514-24d7-4aa2-9d24-72bbaf0aa2a1",
+    "sort": 2
+  },
+  {
+    "directus_files_id": "a83fceac-93f4-47a5-b7e3-3cea81608cae",
+    "id": 3,
+    "project": "0c70c514-24d7-4aa2-9d24-72bbaf0aa2a1",
+    "sort": 3
+  }
+]

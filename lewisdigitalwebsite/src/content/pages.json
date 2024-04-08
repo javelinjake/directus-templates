@@ -1,0 +1,245 @@
+[
+  {
+    "date_created": "2023-09-28T14:35:16",
+    "date_updated": "2023-09-28T14:35:17",
+    "id": "70e757f7-dbc8-4c5a-a44d-b16ce6cc961a",
+    "seo": "98138a41-fd37-472c-9846-58f692fa8144",
+    "slug": "about",
+    "sort": null,
+    "status": "draft",
+    "title": "About",
+    "user_created": "4fab73c0-f0f2-4994-8e0f-958de9394d53",
+    "user_updated": "4fab73c0-f0f2-4994-8e0f-958de9394d53",
+    "blocks": [
+      52
+    ]
+  },
+  {
+    "date_created": "2023-09-28T14:36:20",
+    "date_updated": "2024-02-22T15:03:56",
+    "id": "d7fba3a6-bcfb-440b-a18c-cef6b1c5da4d",
+    "seo": "4ce40161-92ce-4e07-bce1-924bbd62c299",
+    "slug": "about",
+    "sort": null,
+    "status": "published",
+    "title": "About",
+    "user_created": "4fab73c0-f0f2-4994-8e0f-958de9394d53",
+    "user_updated": "4fab73c0-f0f2-4994-8e0f-958de9394d53",
+    "blocks": [
+      53
+    ]
+  },
+  {
+    "date_created": "2024-02-22T15:02:41",
+    "date_updated": "2024-03-07T16:19:07",
+    "id": "1ededa72-3459-4978-866e-985d66e01f68",
+    "seo": "e33ce06a-d28e-4b85-9424-9098d310b25e",
+    "slug": "services",
+    "sort": null,
+    "status": "published",
+    "title": "Services",
+    "user_created": "4fab73c0-f0f2-4994-8e0f-958de9394d53",
+    "user_updated": "ca25329a-77f4-4ca3-802f-5573c12486ec",
+    "blocks": [
+      55,
+      66,
+      65
+    ]
+  },
+  {
+    "date_created": "2024-02-22T15:02:57",
+    "date_updated": "2024-02-22T15:14:21",
+    "id": "e6562c8d-bd6b-48e6-a8ea-548099732692",
+    "seo": "5f14133d-badd-421f-b051-c38c268caebf",
+    "slug": "process",
+    "sort": null,
+    "status": "published",
+    "title": "Process",
+    "user_created": "4fab73c0-f0f2-4994-8e0f-958de9394d53",
+    "user_updated": "4fab73c0-f0f2-4994-8e0f-958de9394d53",
+    "blocks": [
+      56
+    ]
+  },
+  {
+    "date_created": "2024-02-22T15:03:23",
+    "date_updated": "2024-02-22T15:03:23",
+    "id": "c85732b3-6eec-4d2d-b087-8f539c1e30d0",
+    "seo": "947878dc-a0eb-4bc4-bb7f-8c4edf44067f",
+    "slug": "portfolio",
+    "sort": null,
+    "status": "draft",
+    "title": "Portfolio",
+    "user_created": "4fab73c0-f0f2-4994-8e0f-958de9394d53",
+    "user_updated": "4fab73c0-f0f2-4994-8e0f-958de9394d53",
+    "blocks": []
+  },
+  {
+    "date_created": "2024-02-22T15:03:36",
+    "date_updated": "2024-02-22T15:16:26",
+    "id": "bde85f46-ee1b-4039-a597-5c015ec81d04",
+    "seo": "874b60e1-0de9-4da3-b1b5-f5aa8b036e0c",
+    "slug": "news-articles",
+    "sort": null,
+    "status": "published",
+    "title": "News & Articles",
+    "user_created": "4fab73c0-f0f2-4994-8e0f-958de9394d53",
+    "user_updated": "4fab73c0-f0f2-4994-8e0f-958de9394d53",
+    "blocks": [
+      58
+    ]
+  },
+  {
+    "date_created": "2024-02-22T15:04:29",
+    "date_updated": "2024-02-29T12:24:24",
+    "id": "effbcf89-74a0-4a92-90da-3cb3f20bf5e4",
+    "seo": "1be2ead1-01c4-4af1-878a-b1a441bdde38",
+    "slug": "web-design",
+    "sort": null,
+    "status": "published",
+    "title": "Web Design",
+    "user_created": "4fab73c0-f0f2-4994-8e0f-958de9394d53",
+    "user_updated": "ca25329a-77f4-4ca3-802f-5573c12486ec",
+    "blocks": [
+      61
+    ]
+  },
+  {
+    "date_created": "2024-02-22T15:04:41",
+    "date_updated": "2024-02-22T15:17:14",
+    "id": "f93c92e6-eb73-4dd6-84c2-1bc59345f79a",
+    "seo": "da1bd27c-0ff6-48e3-8dd3-cac4365e4237",
+    "slug": "services/web-development",
+    "sort": null,
+    "status": "published",
+    "title": "Web Development",
+    "user_created": "4fab73c0-f0f2-4994-8e0f-958de9394d53",
+    "user_updated": "4fab73c0-f0f2-4994-8e0f-958de9394d53",
+    "blocks": [
+      60
+    ]
+  },
+  {
+    "date_created": "2024-02-22T15:04:53",
+    "date_updated": "2024-02-22T15:18:21",
+    "id": "da08d03b-89d5-47f6-8946-f7f698292aac",
+    "seo": "80e6b02b-323a-424d-b398-0e4221d7699e",
+    "slug": "services/apps-web-apps",
+    "sort": null,
+    "status": "published",
+    "title": "Apps & Web Apps",
+    "user_created": "4fab73c0-f0f2-4994-8e0f-958de9394d53",
+    "user_updated": "4fab73c0-f0f2-4994-8e0f-958de9394d53",
+    "blocks": [
+      64
+    ]
+  },
+  {
+    "date_created": "2024-02-22T15:05:10",
+    "date_updated": "2024-02-22T15:05:10",
+    "id": "943fdebe-6ac4-407d-91b4-f949169f6025",
+    "seo": "720968a6-1c05-425f-9ec7-d4b647c24683",
+    "slug": "e-commerce-websites",
+    "sort": null,
+    "status": "draft",
+    "title": "E-Commerce Websites",
+    "user_created": "4fab73c0-f0f2-4994-8e0f-958de9394d53",
+    "user_updated": "4fab73c0-f0f2-4994-8e0f-958de9394d53",
+    "blocks": []
+  },
+  {
+    "date_created": "2024-02-22T15:05:40",
+    "date_updated": "2024-02-22T15:17:47",
+    "id": "37eadab1-e33f-4033-9283-6a5a5ff0ec52",
+    "seo": "33f4ed36-9f0c-4923-ab6e-08db44ad82c9",
+    "slug": "services/e-commerce-websites",
+    "sort": null,
+    "status": "published",
+    "title": "E-Commerce Websites",
+    "user_created": "4fab73c0-f0f2-4994-8e0f-958de9394d53",
+    "user_updated": "4fab73c0-f0f2-4994-8e0f-958de9394d53",
+    "blocks": [
+      62
+    ]
+  },
+  {
+    "date_created": "2024-02-22T15:05:49",
+    "date_updated": "2024-02-22T15:16:56",
+    "id": "d26c9336-d2fb-48ff-bc05-af9f2d33e733",
+    "seo": "0f55fe58-0bc5-4cb2-b19b-232f460281e8",
+    "slug": "services/seo",
+    "sort": null,
+    "status": "published",
+    "title": "SEO",
+    "user_created": "4fab73c0-f0f2-4994-8e0f-958de9394d53",
+    "user_updated": "4fab73c0-f0f2-4994-8e0f-958de9394d53",
+    "blocks": [
+      59
+    ]
+  },
+  {
+    "date_created": "2024-02-22T15:05:58",
+    "date_updated": "2024-02-22T15:18:01",
+    "id": "9391e3b5-e0d1-474e-a800-b92a05787aae",
+    "seo": "b9d1e908-1772-43c6-9932-1b97ed59809d",
+    "slug": "services/branding",
+    "sort": null,
+    "status": "published",
+    "title": "Branding",
+    "user_created": "4fab73c0-f0f2-4994-8e0f-958de9394d53",
+    "user_updated": "4fab73c0-f0f2-4994-8e0f-958de9394d53",
+    "blocks": [
+      63
+    ]
+  },
+  {
+    "date_created": "2024-02-22T15:06:55",
+    "date_updated": "2024-02-22T15:15:32",
+    "id": "7333a6a5-78ef-4011-a78b-6cc0ffd4933c",
+    "seo": "b060a318-a44c-4d08-991e-721edabcdca2",
+    "slug": "portfolio",
+    "sort": null,
+    "status": "published",
+    "title": "Portfolio",
+    "user_created": "4fab73c0-f0f2-4994-8e0f-958de9394d53",
+    "user_updated": "4fab73c0-f0f2-4994-8e0f-958de9394d53",
+    "blocks": [
+      57
+    ]
+  },
+  {
+    "date_created": "2023-02-08T21:26:17",
+    "date_updated": "2024-03-21T16:08:20",
+    "id": "591f8c5a-32c8-4db1-9b2b-f285a5d0dbe5",
+    "seo": "b1f04203-66c4-42ae-b1e1-3529555cc51e",
+    "slug": "home",
+    "sort": 1,
+    "status": "published",
+    "title": "Home",
+    "user_created": "4fab73c0-f0f2-4994-8e0f-958de9394d53",
+    "user_updated": "4fab73c0-f0f2-4994-8e0f-958de9394d53",
+    "blocks": [
+      45,
+      46,
+      47,
+      48,
+      50,
+      51
+    ]
+  },
+  {
+    "date_created": "2023-02-26T23:20:57",
+    "date_updated": "2024-02-22T15:12:08",
+    "id": "81b649ba-4c00-45fc-bf2e-06e76b6a7693",
+    "seo": null,
+    "slug": "contact",
+    "sort": 7,
+    "status": "published",
+    "title": "Contact",
+    "user_created": "4fab73c0-f0f2-4994-8e0f-958de9394d53",
+    "user_updated": "4fab73c0-f0f2-4994-8e0f-958de9394d53",
+    "blocks": [
+      54
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "title": "We tailor our digital solutions to your needs",
+    "top_title": "About our company",
+    "content": "Offering trustworthy digital solutions tailored to meet the unique needs of each client, while positively impacting the community. Our expert team focuses on delivering reliable and impactful results.",
+    "info_block": [
+      {
+        "title": "Secure & green-energy hosting ",
+        "content": "Our hosting is powered by renewable, green energy sources, making your website not only safe, but also environmentally responsible.",
+        "icon": "vpn_lock",
+        "reversed": false
+      },
+      {
+        "title": "Secure & green-energy hosting ",
+        "content": "Our hosting is powered by renewable, green energy sources, making your website not only safe, but also environmentally responsible.",
+        "icon": "temp_preferences_eco",
+        "reversed": false
+      }
+    ],
+    "button": [
+      {
+        "name": "More about us",
+        "url": "/about",
+        "variant": "secondary"
+      }
+    ],
+    "highlight_colour": "#EE7102",
+    "stand_out_block": [
+      {
+        "title": "20 Years",
+        "sub_title": "Experience",
+        "icon": "domain"
+      }
+    ],
+    "image": [
+      2,
+      3
+    ]
+  }
+]

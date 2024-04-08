@@ -1,0 +1,66 @@
+[
+  {
+    "built_with": [
+      "Nuxt.js",
+      "Strapi"
+    ],
+    "client": null,
+    "content": "<p>Description here</p>",
+    "cost": null,
+    "date_created": "2023-10-17T05:41:42.637Z",
+    "date_updated": "2023-10-17T05:41:48.415Z",
+    "id": "0c70c514-24d7-4aa2-9d24-72bbaf0aa2a1",
+    "image": "4c7ec435-8f22-411a-9a7a-0dae2a3cf9be",
+    "seo": "81d9d5bf-dd28-48bd-ab4d-537c40f79895",
+    "slug": "myers-financial",
+    "sort": null,
+    "status": "published",
+    "summary": "Myers Financial summary",
+    "title": "Myers Financial",
+    "user_created": "4fab73c0-f0f2-4994-8e0f-958de9394d53",
+    "user_updated": "4fab73c0-f0f2-4994-8e0f-958de9394d53",
+    "gallery": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "built_with": null,
+    "client": null,
+    "content": null,
+    "cost": null,
+    "date_created": "2024-02-29T13:53:58.747Z",
+    "date_updated": "2024-02-29T13:53:58.863Z",
+    "id": "187b48ea-21a2-4571-a323-29cef3408f6d",
+    "image": null,
+    "seo": "7fd1bb81-d457-4209-9f48-76e3362f7961",
+    "slug": "chemtrol-admin",
+    "sort": null,
+    "status": "published",
+    "summary": null,
+    "title": "Chemtrol Admin",
+    "user_created": "ca25329a-77f4-4ca3-802f-5573c12486ec",
+    "user_updated": "ca25329a-77f4-4ca3-802f-5573c12486ec",
+    "gallery": []
+  },
+  {
+    "built_with": null,
+    "client": null,
+    "content": null,
+    "cost": null,
+    "date_created": "2024-02-29T13:54:10.410Z",
+    "date_updated": "2024-02-29T13:54:10.504Z",
+    "id": "76dc21ad-e283-449c-87de-f095600b9a35",
+    "image": null,
+    "seo": "1def9b57-9e56-482b-87c9-516e5906bd22",
+    "slug": "team-spirit",
+    "sort": null,
+    "status": "published",
+    "summary": null,
+    "title": "Team Spirit",
+    "user_created": "ca25329a-77f4-4ca3-802f-5573c12486ec",
+    "user_updated": "ca25329a-77f4-4ca3-802f-5573c12486ec",
+    "gallery": []
+  }
+]

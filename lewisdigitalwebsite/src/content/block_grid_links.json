@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Services we’re offering to our clients",
+    "top_title": "What we offer",
+    "highlight_colour": "#EE7102",
+    "title_colour": "#333333",
+    "bg_colour": null,
+    "bg_offset": false,
+    "block_grid_link_block": [
+      1,
+      2,
+      6,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Some of our latest projects",
+    "top_title": "Our work",
+    "highlight_colour": "#EE7102",
+    "title_colour": "#FFFFFF",
+    "bg_colour": "#102941",
+    "bg_offset": true,
+    "block_grid_link_block": [
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "id": 3,
+    "title": "News & Articles",
+    "top_title": "From the blog",
+    "highlight_colour": "#EE7102",
+    "title_colour": null,
+    "bg_colour": null,
+    "bg_offset": false,
+    "block_grid_link_block": [
+      10,
+      11,
+      12
+    ]
+  }
+]

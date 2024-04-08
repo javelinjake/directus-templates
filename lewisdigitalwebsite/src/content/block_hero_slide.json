@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "title": "Your Reliable & Community-Driven Digital Partner",
+    "content": "Offering trustworthy digital solutions tailored to meet the unique needs of each client, while positively impacting the community. Our expert team focuses on delivering reliable and impactful results.",
+    "background_image": "027d7a50-d9bc-4ef2-b762-f4b74712bdb5",
+    "image": null,
+    "top_title": null,
+    "highlight_colour": null,
+    "buttons": [
+      {
+        "name": "View our services",
+        "url": "/services",
+        "icon": "arrow_circle_right",
+        "variant": "primary"
+      }
+    ],
+    "home_hero": 1
+  },
+  {
+    "id": 2,
+    "title": "A Brighter Future with Solar Energy",
+    "content": "Discover the potential of solar energy to reshape our world. Our solar panels capture sunlight and convert it into power, providing your home or business with reliable energy while contributing to a greener planet. Take the step towards a brighter future.",
+    "background_image": "3b2d7507-23cc-4105-ad68-2b2ea22cd465",
+    "image": null,
+    "top_title": null,
+    "highlight_colour": "#FEBA11",
+    "buttons": [
+      {
+        "name": "Explore Benefits",
+        "url": "/",
+        "icon": false,
+        "variant": "primary",
+        "text_colour": "#0F172A"
+      }
+    ],
+    "home_hero": null
+  },
+  {
+    "id": 3,
+    "title": "Empowering Communities Through Solar",
+    "content": "We're dedicated to bringing solar energy to underserved communities. By installing solar panels on schools, clinics, and community centers, we're providing access to clean electricity and education on sustainable living. Together, we can create a more equitable and sustainable future.",
+    "background_image": "4c7ec435-8f22-411a-9a7a-0dae2a3cf9be",
+    "image": null,
+    "top_title": null,
+    "highlight_colour": "#FEBA11",
+    "buttons": [
+      {
+        "name": "Get Involved",
+        "url": "/",
+        "icon": false,
+        "variant": "primary",
+        "text_colour": "#0F172A"
+      }
+    ],
+    "home_hero": null
+  },
+  {
+    "id": 4,
+    "title": "Solar Innovation, Unleashed",
+    "content": "At the forefront of solar innovation, we're pushing boundaries and revolutionizing the way we harness energy from the sun. Our breakthrough technologies maximize efficiency and performance, making solar a viable option for homes and businesses worldwide. Experience the future of energy today.",
+    "background_image": "3689be19-81f9-4bc0-b43b-2e043a7072b2",
+    "image": null,
+    "top_title": null,
+    "highlight_colour": "#FEBA11",
+    "buttons": [
+      {
+        "name": "See Our Solutions",
+        "url": "/",
+        "icon": false,
+        "variant": "primary",
+        "text_colour": "#0F172A"
+      }
+    ],
+    "home_hero": null
+  }
+]
